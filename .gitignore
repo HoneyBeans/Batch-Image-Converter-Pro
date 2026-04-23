@@ -1,0 +1,11 @@
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# Bundled Engine
+imagemagick/
+
+# Python cache
+__pycache__/
+*.pyc
